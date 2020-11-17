@@ -50,13 +50,11 @@ const NavBar = () => {
               href="#link">
               Contact
               </Nav.Link>
-            <Link to="/login">
               <Button
                 className="pl-5 pr-5 login-btn"
                 >
                 Login
                 </Button>
-            </Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>

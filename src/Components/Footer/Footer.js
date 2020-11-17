@@ -9,7 +9,7 @@ const Footer = () => {
             <Col md={4}>
           <p> H#34-0 (4th Floor), Road #24 <br />
           Now DOHS, Mohakahali, Dhaka, Bangladesh <br/>
-          Phone: 080898978687<br />
+          Phone:  018XXXXXXXX<br />
           Email:info@gmail.com</p>       
             </Col>
             <Col md={8}>
